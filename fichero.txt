@@ -1,1 +1,2 @@
 contenido de archivo fichero
+modificacion al archivo fichero (nueva linea)
